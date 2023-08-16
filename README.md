@@ -29,7 +29,7 @@ To run ShopNex locally, follow these steps:
 
 1. Clone the repository:
 ```javascript
-git clone https://github.com/abdullah-ayyash/eShopify-Online-Store.git
+git clone https://github.com/bbigbear/Shopify-Online-Store.git
 cd shopnex
 ```
 2. Install dependencies for the frontend and backend:
